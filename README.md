@@ -2,7 +2,7 @@ Accessible AI
 
 AI that removes communication and information barriers.
 
-🔗 Live demo: https://clear-bridge-ai.base44.app
+🔗 Live demo: https://funky-clear-path-ai.base44.app
 
 Accessible AI is one unified, accessibility-first platform that helps people understand information, complete tasks, communicate across languages, and express their thoughts. It is a single product with four connected modules, not four separate tools.
 
